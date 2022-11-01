@@ -1,0 +1,29 @@
+.header_font{
+    font-size: 20px;
+}
+.jumbotron{
+    color: #f0f4f7;
+}
+
+.container{
+    color: #f0f4f7;
+}
+
+a{
+    color: red;
+}
+
+.source{
+    height: 24px;
+    width: auto;
+    border-radius: 3px;
+}
+
+.emotion{
+    border-radius: 15%;
+}
+
+footer{
+    color: #f0f4f7;
+    background-color: #345d82;
+}
