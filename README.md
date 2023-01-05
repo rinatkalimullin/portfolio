@@ -1,3 +1,1 @@
-# Home assignment
-# Name: Rinat Kalimullin
-# Student ID: U2210099
+# Home assignment | Introduction to IT course
